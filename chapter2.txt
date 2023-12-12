@@ -1,2 +1,6 @@
 it was the best of time
+<<<<<<< HEAD
 kuch toh likh diya abb\
+=======
+wtfkuch bhi nahi likha
+>>>>>>> alien-plot
